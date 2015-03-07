@@ -1,0 +1,3 @@
+As we go on collecting the dataset for the project,
+we can make a sample parser using pyparsing to convert the documentation to a list of words with some weights, lets say.
+Next find out the precision and accuracy and then we can compare on different models and go on to work with this.
